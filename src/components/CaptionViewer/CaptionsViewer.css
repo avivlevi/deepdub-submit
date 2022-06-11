@@ -1,0 +1,24 @@
+.captions-viewer-wrapper {
+	text-align: left;
+	display: flex;
+}
+
+.character-and-cue {
+	padding-left: 20px;
+}
+
+.character-name {
+	position: sticky;
+	top: 0;
+
+	font-weight: bold;
+	margin-bottom: 10px;
+	color: white;
+	background: #212121;
+}
+
+.cue {
+	white-space: pre-wrap;
+	padding-bottom: 25px;
+	color: #ccc;
+}

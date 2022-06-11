@@ -1,0 +1,10 @@
+.progress-bar-wrapper {
+    width: 3px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.progress-bar-progress {
+    background: #d63864;
+    transition: height 1s linear;
+}

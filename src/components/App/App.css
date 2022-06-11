@@ -1,0 +1,38 @@
+.title,
+.subtitle {
+	color: white;
+}
+
+.subtitle {
+	margin-bottom: 20px;
+}
+
+.loading {
+	color: white;
+	text-align: center;
+}
+
+.error {
+	color: white;
+	background: #d63864;
+	padding: 10px;
+}
+
+
+.main-wrapper {
+	margin: 0 auto;
+	width: 600px;
+	height: 800px;
+
+	padding: 30px;
+	border: 1px solid #5d4137;
+	background: #212121;
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+	overflow: hidden;
+}
+
+.sub-wrapper {
+	height: 100%;
+	width: 110%;
+	overflow: auto;
+}
